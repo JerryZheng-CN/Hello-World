@@ -5,5 +5,7 @@ int main()
 {
     printf("This is Hello World by Jerry Zheng\n");
     
+    printf("This is a test\r\n");
+    
     return 0;
 }
